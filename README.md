@@ -1,0 +1,2 @@
+# justtrying
+just learning git 
